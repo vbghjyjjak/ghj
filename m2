@@ -34,5 +34,5 @@
 <a style="display:none" href="https://expressblogshub.com/">https://expressblogshub.com/</a>
 <a style="display:none" href="https://kellymazeski.com/">https://kellymazeski.com/</a>
 <a style="display:none" href="https://shueraf.com/">https://shueraf.com/</a>
-<a style="display:none" href="https://hearfelix.com/"">https://hearfelix.com/</a>
+<a style="display:none" href="https://hearfelix.com/">https://hearfelix.com/</a>
 <a style="display:none" href="https://ferahhuzurevi.net/">https://ferahhuzurevi.net/</a>
