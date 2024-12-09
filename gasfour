@@ -43,3 +43,4 @@
 <a style="display:none" href="https://sardenberg.com.br/">https://sardenberg.com.br/</a>
 <a style="display:none" href="https://villa.sacred.com.tr/">https://villa.sacred.com.tr/</a>
 <a style="display:none" href="https://www.defne.sacred.com.tr/">https://www.defne.sacred.com.tr/</a>
+<a style="display:none" href="https://alfamantap.com/">https://alfamantap.com/</a>
