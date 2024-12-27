@@ -48,3 +48,5 @@
 <a style="display:none" href="https://dpfc-ci.org/">https://dpfc-ci.org/</a>
 <a style="display:none" href="https://saopiov.com/">https://saopiov.com/</a>
 <a style="display:none" href="https://npgame.gg/">https://npgame.gg/</a>
+<a style="display:none" href="https://caninehelpers.org/">https://caninehelpers.org/</a>
+<a style="display:none" href="https://greenethernet.com/">https://greenethernet.com/</a>
