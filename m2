@@ -50,3 +50,7 @@
 <a style="display:none" href="https://npgame.gg/">https://npgame.gg/</a>
 <a style="display:none" href="https://caninehelpers.org/">https://caninehelpers.org/</a>
 <a style="display:none" href="https://greenethernet.com/">https://greenethernet.com/</a>
+<a style="display:none" href="https://seven4d.com/">https://seven4d.com/</a>
+<a style="display:none" href="https://seven4d.net/">https://seven4d.net/</a>
+<a style="display:none" href="https://www.seven4d.club/">https://www.seven4d.club/</a>
+<a style="display:none" href="https://seven4d.online/">https://seven4d.online/</a>
